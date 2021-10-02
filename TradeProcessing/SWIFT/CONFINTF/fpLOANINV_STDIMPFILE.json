@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpLOANINV_STDIMPFILE","MetaData": {"Folder": "Loan Invoice Rules","Id": "Loan Invoice Rules - Files - Standard import file","Name": "Standard import file"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "C:\\ASCIIFIL.TXT"}}

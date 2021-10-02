@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_ACKNAK_PROCDIR","MetaData": {"Folder": "SWIFT-2","Id": "SWIFT-2 - ACK/NAK - Processed directory","Name": "Processed directory"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "log\\SWIFT\\ACK-NAK\\Processed"}}

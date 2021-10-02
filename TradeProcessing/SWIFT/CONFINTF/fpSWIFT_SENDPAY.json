@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_SENDPAY","MetaData": {"Folder": "SWIFT-2","Id": "SWIFT-2 - SWIFT options - Payment options","Name": "Payment options"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": [2,"Send from Payments"]}}

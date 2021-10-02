@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpBI_BACKUPDIR","MetaData": {"Folder": "B&&I","Id": "B&&I - B&&I server - Backup directory","Name": "Backup directory"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "U:\\temp\\bi\\backup"}}

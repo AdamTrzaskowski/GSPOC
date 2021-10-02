@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCTMENABLECANCEL","MetaData": {"Folder": "Omgeo CTM","Id": "Omgeo CTM - Management messages settings - Enable sending cancel messages","Name": "Enable sending cancel messages"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

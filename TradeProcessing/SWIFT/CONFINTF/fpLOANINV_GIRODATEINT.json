@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpLOANINV_GIRODATEINT","MetaData": {"Folder": "Loan Invoice Info","Id": "Loan Invoice Info - Giro bank info - Number of days","Name": "Number of days"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 0}}

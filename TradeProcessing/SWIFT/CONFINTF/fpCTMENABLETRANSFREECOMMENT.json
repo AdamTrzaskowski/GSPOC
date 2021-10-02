@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCTMENABLETRANSFREECOMMENT","MetaData": {"Folder": "Omgeo CTM","Id": "Omgeo CTM - Miscellaneous - Enable adding free comments on transactions","Name": "Enable adding free comments on transactions"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

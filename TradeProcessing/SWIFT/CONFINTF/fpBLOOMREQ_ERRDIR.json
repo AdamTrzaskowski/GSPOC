@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpBLOOMREQ_ERRDIR","MetaData": {"Folder": "Bloomberg","Id": "Bloomberg - Bloomberg data license - Error directory","Name": "Error directory"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "U:\\tmp"}}

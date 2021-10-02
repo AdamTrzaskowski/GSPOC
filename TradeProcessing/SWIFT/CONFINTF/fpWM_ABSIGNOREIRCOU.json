@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_ABSIGNOREIRCOU","MetaData": {"Folder": "WM-1","Id": "WM-1 - WM-1 settings - Ignore irregular coupon dates for ABS","Name": "Ignore irregular coupon dates for ABS"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

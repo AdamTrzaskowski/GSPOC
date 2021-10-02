@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpLOANINV_BANKGIROIMPFILE","MetaData": {"Folder": "Loan Invoice Rules","Id": "Loan Invoice Rules - Files - Default import file for letters","Name": "Default import file for letters"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "C:\\work\\tom.txt"}}

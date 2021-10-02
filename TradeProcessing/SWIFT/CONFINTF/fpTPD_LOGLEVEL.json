@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpTPD_LOGLEVEL","MetaData": {"Folder": "Trade Processing Dashboard && Alerts","Id": "Trade Processing Dashboard && Alerts - Logging - Log verbosity level","Name": "Log verbosity level"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": [0,"Verbose"]}}

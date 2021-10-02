@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCAMSENDERSWIFTADDRESS","MetaData": {"Folder": "Corporate Action Instructions","Id": "Corporate Action Instructions - Instruction configuration - Sender's SWIFT address","Name": "Sender's SWIFT address"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "SWIFT1312432"}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpTPD_MAXAGE","MetaData": {"Folder": "Trade Processing Dashboard && Alerts","Id": "Trade Processing Dashboard && Alerts - Data - Disregard data older than number of days","Name": "Disregard data older than number of days"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 999}}

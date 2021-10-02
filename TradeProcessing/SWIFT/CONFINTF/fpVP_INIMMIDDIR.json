@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpVP_INIMMIDDIR","MetaData": {"Folder": "VP","Id": "VP - VP server - Receive immediate answer","Name": "Receive immediate answer"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "C:\\tmsprog\\VP\\VP send"}}

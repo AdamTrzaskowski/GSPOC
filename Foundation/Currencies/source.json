@@ -1,0 +1,7 @@
+﻿{
+ "Installation": {"Version":"22.01","SrvcPack":"","Track":"","State":"BED-B"},
+ "Customer": {"No":0,"Id":"DEV","Name":"SimCorp Development version"},
+ "User": {"Id":"UATESTS","Name":"UA TESTS"},
+ "Time": {"Local":"2021-10-02T13:16:40+02","Database":"2021-10-02T13:16:40+02","Utc":"2021-10-02T11:16:40Z"},
+ "Language": {"Id":"EN","Name":"English"}
+}

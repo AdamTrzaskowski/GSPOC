@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpINSREP_INCLSECLEND","MetaData": {"Folder": "Regulatory Reporting","Id": "Regulatory Reporting - Insurance reporting - Portfolio calculation - Include securities lendings","Name": "Include securities lendings"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpTPD_CHKNEWSOURCES","MetaData": {"Folder": "Trade Processing Dashboard && Alerts","Id": "Trade Processing Dashboard && Alerts - Data - Minutes between check for new sources","Name": "Minutes between check for new sources"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 1}}

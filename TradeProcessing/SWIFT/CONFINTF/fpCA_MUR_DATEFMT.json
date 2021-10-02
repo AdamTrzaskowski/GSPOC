@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCA_MUR_DATEFMT","MetaData": {"Folder": "Corporate Action Instructions","Id": "Corporate Action Instructions - Message user reference (MUR) - Instruction netting - Date format","Name": "Date format"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "YYYYMMDD"}}

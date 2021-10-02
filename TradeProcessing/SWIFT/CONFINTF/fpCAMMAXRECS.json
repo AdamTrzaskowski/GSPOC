@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCAMMAXRECS","MetaData": {"Folder": "Corporate Action Manager","Id": "Corporate Action Manager - Configuration - Maximum number of records to load in one batch","Name": "Maximum number of records to load in one batch"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 1000}}

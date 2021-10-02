@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_GMINVITATIONFILE","MetaData": {"Folder": "WM-2","Id": "WM-2 - General meetings - Invitations file","Name": "Invitations file"},"ConfigurationDependencies": {"CONFINTF": ["fpWM_IMPGMDETAILS"]},"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "WM INV"}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_LOG2FILEDIR","MetaData": {"Folder": "WM-3","Id": "WM-3 - From pool - Directory for log files","Name": "Directory for log files"},"ConfigurationDependencies": {"CONFINTF": ["fpWM_LOG2FILE"]},"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": null}}

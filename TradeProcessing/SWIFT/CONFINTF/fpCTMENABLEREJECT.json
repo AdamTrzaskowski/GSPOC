@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCTMENABLEREJECT","MetaData": {"Folder": "Omgeo CTM","Id": "Omgeo CTM - Management messages settings - Enable sending reject messages","Name": "Enable sending reject messages"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

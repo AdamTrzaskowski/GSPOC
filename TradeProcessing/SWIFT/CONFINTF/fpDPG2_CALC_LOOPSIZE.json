@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpDPG2_CALC_LOOPSIZE","MetaData": {"Folder": "DPG","Id": "DPG - Create DPG pool data - Loop size for load balancing","Name": "Loop size for load balancing"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 2}}

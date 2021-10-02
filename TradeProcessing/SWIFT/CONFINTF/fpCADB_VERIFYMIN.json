@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCADB_VERIFYMIN","MetaData": {"Folder": "Corporate Action Dashboard Service","Id": "Corporate Action Dashboard Service - Data - Minutes between verification of data","Name": "Minutes between verification of data"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 60}}

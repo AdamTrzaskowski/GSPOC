@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpEQUIPOS_USERNAME","MetaData": {"Folder": "Coric","Id": "Coric - Coric settings - Username for Coric WebService call","Name": "Username for Coric WebService call"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "DWHsrv"}}

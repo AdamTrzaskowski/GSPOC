@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCTM_MAXRECORDS","MetaData": {"Folder": "Omgeo CTM","Id": "Omgeo CTM - Status window - Maximum number of transactions/messages","Name": "Maximum number of transactions/messages"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 2500}}

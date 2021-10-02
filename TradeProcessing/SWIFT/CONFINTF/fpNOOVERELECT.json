@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpNOOVERELECT","MetaData": {"Folder": "Corporate Action Elections","Id": "Corporate Action Elections - Elections - Do not allow over allocation of elections","Name": "Do not allow over allocation of elections"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

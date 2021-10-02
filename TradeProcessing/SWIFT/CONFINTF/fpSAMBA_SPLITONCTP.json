@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSAMBA_SPLITONCTP","MetaData": {"Folder": "SAMBA-1","Id": "SAMBA-1 - Specialities - Emulate split on counterparty","Name": "Emulate split on counterparty"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_MUR_DATEFMT","MetaData": {"Folder": "SWIFT-3","Id": "SWIFT-3 - Message user reference (MUR) - Security netting - Date format","Name": "Date format"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "YYYYMMDD"}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_NONUNIQADR","MetaData": {"Folder": "SWIFT-1","Id": "SWIFT-1 - SWIFT addresses - Allow non-unique SWIFT addresses","Name": "Allow non-unique SWIFT addresses"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

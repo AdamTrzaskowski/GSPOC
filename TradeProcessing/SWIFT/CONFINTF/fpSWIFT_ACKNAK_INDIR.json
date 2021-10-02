@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_ACKNAK_INDIR","MetaData": {"Folder": "SWIFT-2","Id": "SWIFT-2 - ACK/NAK - Input directory","Name": "Input directory"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "log\\SWIFT\\ACK-NAK\\In"}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpECMSGSTARTTIME","MetaData": {"Folder": "Workflow Calendar Service","Id": "Workflow Calendar Service - Message delivery interval - Message delivery start","Name": "Message delivery start"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "00:01"}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpECMSG_STATES","MetaData": {"Folder": "Workflow Calendar Service","Id": "Workflow Calendar Service - Message delivery interval - Message delivery status's","Name": "Message delivery status's"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": [[0,"Not Started"],[1,"In Progress"]]}}

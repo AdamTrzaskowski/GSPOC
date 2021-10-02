@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpBEC_CANCELDIR","MetaData": {"Folder": "BEC","Id": "BEC - Configuration - Cancellation directory","Name": "Cancellation directory"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "C:\\TEMP"}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpBI_COMM","MetaData": {"Folder": "B&&I","Id": "B&&I - Miscellaneous - Communication to B&&I","Name": "Communication to B&&I"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": [267,"MQ directly to B&I"]}}

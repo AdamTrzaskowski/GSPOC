@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_OUTDIR","MetaData": {"Folder": "SWIFT-1","Id": "SWIFT-1 - SWIFT - Processed directory","Name": "Processed directory"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "R:\\dev\\main\\log\\SWIFT\\Processed"}}

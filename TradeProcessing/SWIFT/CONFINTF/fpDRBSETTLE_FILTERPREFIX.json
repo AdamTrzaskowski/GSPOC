@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpDRBSETTLE_FILTERPREFIX","MetaData": {"Folder": "DreBa Settlement","Id": "DreBa Settlement - Transaction import - Filter prefix","Name": "Filter prefix"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "DRB"}}

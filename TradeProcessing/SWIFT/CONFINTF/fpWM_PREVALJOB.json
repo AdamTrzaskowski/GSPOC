@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_PREVALJOB","MetaData": {"Folder": "WM-3","Id": "WM-3 - Validation - Pre-validation jobs","Name": "Pre-validation jobs"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": [[1,"Security pre-validation"]]}}

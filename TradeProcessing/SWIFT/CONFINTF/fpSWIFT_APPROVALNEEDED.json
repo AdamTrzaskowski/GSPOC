@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_APPROVALNEEDED","MetaData": {"Folder": "SWIFT-1","Id": "SWIFT-1 - SWIFT approval - Require approval before sending","Name": "Require approval before sending"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

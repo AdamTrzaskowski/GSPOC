@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_TOPOOLBLKSIZE","MetaData": {"Folder": "WM-3","Id": "WM-3 - To pool - Block size (bytes)","Name": "Block size (bytes)"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 1048576}}

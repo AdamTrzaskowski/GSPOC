@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpEQUIPOS_WFDIR","MetaData": {"Folder": "Coric","Id": "Coric - Coric workflow settings - Directory for workflow folder","Name": "Directory for workflow folder"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "clirepWorkflowFolder"}}

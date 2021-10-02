@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpBI_DCID","MetaData": {"Folder": "B&&I","Id": "B&&I - Miscellaneous - Data center ID","Name": "Data center ID"},"ConfigurationDependencies": {"CONFINTF": ["fpBI_COMM"]},"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "KYLLE"}}

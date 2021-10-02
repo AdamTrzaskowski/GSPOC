@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpVPC_BACKUPDIR","MetaData": {"Folder": "VPC","Id": "VPC - Miscellaneous - Backup directory","Name": "Backup directory"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "f:\\thh\\vpc\\AUXSTAT\\"}}

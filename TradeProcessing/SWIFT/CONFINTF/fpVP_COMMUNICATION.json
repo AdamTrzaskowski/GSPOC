@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpVP_COMMUNICATION","MetaData": {"Folder": "VP","Id": "VP - Miscellaneous - Communication to VP","Name": "Communication to VP"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": [260,"MQ directly to VP"]}}

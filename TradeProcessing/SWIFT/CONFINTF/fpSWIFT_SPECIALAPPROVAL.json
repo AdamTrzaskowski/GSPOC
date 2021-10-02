@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_SPECIALAPPROVAL","MetaData": {"Folder": "SWIFT-1","Id": "SWIFT-1 - SWIFT approval - Approval needed only for selected message types","Name": "Approval needed only for selected message types"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_LOG2FILE","MetaData": {"Folder": "WM-3","Id": "WM-3 - From pool - Transfer log to file","Name": "Transfer log to file"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

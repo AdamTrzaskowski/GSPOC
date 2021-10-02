@@ -1,0 +1,21 @@
+<RuleXML>
+  <Rule Type="RelativeLimit" Version="1.0" UseExternals="false">
+    <Filter Input="0" Output="1" Level="1">
+      <Where>
+        <Condition Attribute="InstrumentType" Operator="Equals" Value="38" PropertyType="HoldingAttribute" />
+      </Where>
+    </Filter>
+    <GroupBy Attribute="Country" Input="1" Output="2" Level="1" PropertyType="HoldingAttribute" />
+    <Check Input="2" Output="3" Level="1">
+      <Where Feedback="Failure">
+        <Condition Attribute="DirtyValue" Operator="InInterval" Value="[{MinLimit};{MaxLimit}]" RelativeToLevel="1" RelativeToStep="0" PropertyType="HoldingAttribute" />
+      </Where>
+      <Where Feedback="Warning">
+        <Condition Attribute="DirtyValue" Operator="InInterval" Value="[{MinWarningLimit};{MaxWarningLimit}]" RelativeToLevel="1" RelativeToStep="0" PropertyType="HoldingAttribute" />
+      </Where>
+    </Check>
+    <!-- 1204/HoldingAttribute/InstrumentType -->
+    <!-- 1196/HoldingAttribute/DirtyValue -->
+    <!-- 1190/HoldingAttribute/Country -->
+  </Rule>
+</RuleXML>

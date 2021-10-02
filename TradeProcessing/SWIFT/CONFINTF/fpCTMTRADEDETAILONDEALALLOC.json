@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCTMTRADEDETAILONDEALALLOC","MetaData": {"Folder": "Omgeo CTM","Id": "Omgeo CTM - Miscellaneous - Allow trade detail on deal allocations","Name": "Allow trade detail on deal allocations"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

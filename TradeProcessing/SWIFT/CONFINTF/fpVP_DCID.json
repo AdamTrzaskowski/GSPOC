@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpVP_DCID","MetaData": {"Folder": "VP","Id": "VP - Miscellaneous - Data center ID","Name": "Data center ID"},"ConfigurationDependencies": {"CONFINTF": ["fpVP_COMMUNICATION"]},"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "THH"}}

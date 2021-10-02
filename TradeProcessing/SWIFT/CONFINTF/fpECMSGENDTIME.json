@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpECMSGENDTIME","MetaData": {"Folder": "Workflow Calendar Service","Id": "Workflow Calendar Service - Message delivery interval - Message delivery end","Name": "Message delivery end"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "23:59"}}

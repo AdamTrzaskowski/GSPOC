@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_ACKNAK","MetaData": {"Folder": "SWIFT-2","Id": "SWIFT-2 - ACK/NAK - Use ACK/NAK","Name": "Use ACK/NAK"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

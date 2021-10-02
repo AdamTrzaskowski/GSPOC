@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpVP_BACKUPDIR","MetaData": {"Folder": "VP","Id": "VP - VP server - Backup directory","Name": "Backup directory"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "C:\\tmsprog\\VP\\Backup"}}

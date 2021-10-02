@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCTMSHOWCOSTTAXACRONYMSONLY","MetaData": {"Folder": "Omgeo CTM","Id": "Omgeo CTM - Cost/Tax mapping - Only show acronyms for commission and charge tax types","Name": "Only show acronyms for commission and charge tax types"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

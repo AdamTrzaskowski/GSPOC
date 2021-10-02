@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCOLL_CHKNEWPBL","MetaData": {"Folder": "Collateral Calculation Service","Id": "Collateral Calculation Service - Data - Minutes between check for new publications","Name": "Minutes between check for new publications"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 5}}

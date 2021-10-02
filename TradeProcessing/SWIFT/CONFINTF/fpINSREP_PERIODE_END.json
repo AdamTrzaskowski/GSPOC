@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpINSREP_PERIODE_END","MetaData": {"Folder": "Regulatory Reporting","Id": "Regulatory Reporting - Insurance reporting - Period - Period end","Name": "Period end"},"ConfigurationDependencies": {"REFDATES": ["30JUN05"]},"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "[30JUN05]"}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCAMDISEC","MetaData": {"Folder": "Corporate Action Manager","Id": "Corporate Action Manager - Configuration - Build EC flow when importing/transferring message","Name": "Build EC flow when importing/transferring message"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

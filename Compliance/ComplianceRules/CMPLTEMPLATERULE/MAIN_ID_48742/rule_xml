@@ -1,0 +1,19 @@
+<RuleXML>
+  <Rule Begin="0" End="1" Type="AbsoluteLimit" Version="1.0">
+    <Check Input="0" Output="1" Level="1">
+      <Where Feedback="Failure">
+        <And>
+          <Condition Attribute="BalanceNominalNumber" Operator="LessThan" Value="{MaxLimit}" PropertyType="HoldingAttribute" />
+          <Condition Attribute="BalanceNominalNumber" Operator="GreaterThan" Value="{MinLimit}" PropertyType="HoldingAttribute" />
+        </And>
+      </Where>
+      <Where Feedback="Warning">
+        <And>
+          <Condition Attribute="BalanceNominalNumber" Operator="LessThan" Value="{MaxWarningLimit}" PropertyType="HoldingAttribute" />
+          <Condition Attribute="BalanceNominalNumber" Operator="GreaterThan" Value="{MinWarningLimit}" PropertyType="HoldingAttribute" />
+        </And>
+      </Where>
+    </Check>
+    <!-- 1187/HoldingAttribute/BalanceNominalNumber -->
+  </Rule>
+</RuleXML>

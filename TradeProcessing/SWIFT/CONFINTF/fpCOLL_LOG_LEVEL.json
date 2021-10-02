@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCOLL_LOG_LEVEL","MetaData": {"Folder": "Collateral Calculation Service","Id": "Collateral Calculation Service - Logs - Collateral logs verbosity level","Name": "Collateral logs verbosity level"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": [0,"Verbose"]}}

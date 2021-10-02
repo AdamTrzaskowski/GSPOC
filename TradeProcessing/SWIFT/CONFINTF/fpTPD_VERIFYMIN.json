@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpTPD_VERIFYMIN","MetaData": {"Folder": "Trade Processing Dashboard && Alerts","Id": "Trade Processing Dashboard && Alerts - Data - Minutes between verification of data","Name": "Minutes between verification of data"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 0}}

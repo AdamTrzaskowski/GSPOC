@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpSWIFT_ACKNAK_INEXT","MetaData": {"Folder": "SWIFT-2","Id": "SWIFT-2 - ACK/NAK - Input extension","Name": "Input extension"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": ".txt"}}

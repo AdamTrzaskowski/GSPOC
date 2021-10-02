@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_INCLUDEALL","MetaData": {"Folder": "WM-3","Id": "WM-3 - From pool - Import all non-excluded ISINs","Name": "Import all non-excluded ISINs"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

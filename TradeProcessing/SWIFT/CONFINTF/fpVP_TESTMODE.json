@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpVP_TESTMODE","MetaData": {"Folder": "VP","Id": "VP - Miscellaneous - Test mode","Name": "Test mode"},"ConfigurationDependencies": {"CONFINTF": ["fpVP_COMMUNICATION"]},"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

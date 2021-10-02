@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCOLL_LIVERES","MetaData": {"Folder": "Collateral Calculation Service","Id": "Collateral Calculation Service - Collateral results - Create and maintain collateral LIVE results","Name": "Create and maintain collateral LIVE results"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

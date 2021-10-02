@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCREDITEQ_SOURCE","MetaData": {"Folder": "Credit Equivalent Amounts","Id": "Credit Equivalent Amounts - Formula source - Database (default: calculate)","Name": "Database (default: calculate)"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

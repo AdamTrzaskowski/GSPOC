@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_GMCOUNTERPROPFILE","MetaData": {"Folder": "WM-2","Id": "WM-2 - General meetings - Counter proposals file","Name": "Counter proposals file"},"ConfigurationDependencies": {"CONFINTF": ["fpWM_IMPGMDETAILS"]},"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "WM CP"}}

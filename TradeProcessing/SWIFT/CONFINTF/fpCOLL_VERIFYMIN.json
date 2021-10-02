@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCOLL_VERIFYMIN","MetaData": {"Folder": "Collateral Calculation Service","Id": "Collateral Calculation Service - Data - Minutes between verification of data","Name": "Minutes between verification of data"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 60}}

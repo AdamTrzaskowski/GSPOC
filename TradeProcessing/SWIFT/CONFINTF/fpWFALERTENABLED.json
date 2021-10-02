@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWFALERTENABLED","MetaData": {"Folder": "Corporate Action Manager","Id": "Corporate Action Manager - Configuration - Enable CAM reconciliation failure alerts","Name": "Enable CAM reconciliation failure alerts"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

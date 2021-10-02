@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_KEEPCHGDIVS","MetaData": {"Folder": "WM-2","Id": "WM-2 - Corporate actions - Dividends - Don't update manual changed dividends","Name": "Don't update manual changed dividends"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": true}}

@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpDOCPROCNOFEEDBACK","MetaData": {"Folder": "Document Processing","Id": "Document Processing - Alts. Notice API and Authentication - Disable feedback","Name": "Disable feedback"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}

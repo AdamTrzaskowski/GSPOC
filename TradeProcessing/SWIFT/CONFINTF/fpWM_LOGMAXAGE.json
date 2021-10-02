@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpWM_LOGMAXAGE","MetaData": {"Folder": "WM-3","Id": "WM-3 - From pool - Number of days to keep data in log","Name": "Number of days to keep data in log"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 10}}

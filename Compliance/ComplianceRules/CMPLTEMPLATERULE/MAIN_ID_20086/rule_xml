@@ -1,0 +1,10 @@
+<RuleXML>
+  <Rule Begin="0" End="1" Type="ExclusionLimit" Version="1.0">
+    <CheckNot Input="0" Output="1" Level="1">
+      <Where Feedback="Failure">
+        <Condition Attribute="IssuerCountry" Operator="Equals" Value="CHI" PropertyType="HoldingAttribute" />
+      </Where>
+    </CheckNot>
+    <!-- 1207/HoldingAttribute/IssuerCountry -->
+  </Rule>
+</RuleXML>

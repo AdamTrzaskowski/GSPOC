@@ -1,0 +1,1 @@
+﻿{"Type": "CONFINTF","Key": "fpCAMKEEPSTATICDATA","MetaData": {"Folder": "Corporate Action Manager","Id": "Corporate Action Manager - Configuration - Keep static data when cleaning up messages","Name": "Keep static data when cleaning up messages"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": false}}
