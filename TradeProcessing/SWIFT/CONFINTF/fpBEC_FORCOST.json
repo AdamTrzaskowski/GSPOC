@@ -1,1 +1,1 @@
-﻿{"Type": "CONFINTF","Key": "fpBEC_FORCOST","MetaData": {"Folder": "BEC","Id": "BEC - Cost/Tax - Foreign cost","Name": "Foreign cost"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "BEC_3"}}
+﻿{"Type": "CONFINTF","Key": "fpBEC_FORCOST","MetaData": {"Folder": "BEC","Id": "BEC - Cost/Tax - Foreign cost","Name": "Foreign costmod"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": "BEC_3"}}
