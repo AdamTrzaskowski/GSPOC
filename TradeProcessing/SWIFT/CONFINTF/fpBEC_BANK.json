@@ -1,1 +1,1 @@
-﻿{"Type": "CONFINTF","Key": "fpBEC_BANK","MetaData": {"Folder": "BEC","Id": "BEC - Configuration - Bank number","Name": "Bank number"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 92}}
+﻿{"Type": "CONFINTF","Key": "fpBEC_BANK","MetaData": {"Folder": "BEC","Id": "BEC - Configuration - Bank number","Name": "Bank number mod"},"ConfigurationDependencies": null,"TableDependencies": null,"InstallationChecks": null,"Attributes": {"Value": 92}}
