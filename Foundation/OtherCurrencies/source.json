@@ -1,0 +1,7 @@
+﻿{
+ "Installation": {"Version":"22.01","SrvcPack":"","Track":"","State":"GLOBAL_STD_DEV"},
+ "Customer": {"No":25,"Id":"GS","Name":"Global Standards"},
+ "User": {"Id":"UATESTS","Name":"*.xmgr.scdom.net"},
+ "Time": {"Local":"2021-10-15T14:41:39+02","Database":"2021-10-15T14:41:39+02","Utc":"2021-10-15T12:41:39Z"},
+ "Language": {"Id":"EN","Name":"English"}
+}
