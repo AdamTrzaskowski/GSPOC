@@ -1,0 +1,21 @@
+﻿{
+  "Type": "AUTMENUS",
+  "Key": "AAV",
+  "MetaData": {
+    "Folder": "",
+    "Id": "AAV",
+    "Name": "aav"
+  },
+  "Attributes": {
+    "pAUTPROF": "AAV",
+    "bufAUTMENUS": [
+      {
+        "fpAUTKEYS": [
+          "2079|779|",
+          "/Accounting/General Ledger/View Compressed Finance Transactions/Options/Show Historical Records"
+        ],
+        "fpMENUAUT": "A"
+      }
+    ]
+  }
+}
